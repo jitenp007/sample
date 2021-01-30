@@ -1,3 +1,4 @@
 #simple hello world program.
 
-print('Hello World!')
+def hello_world_function():
+  return "Hello World!"
